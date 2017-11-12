@@ -7,7 +7,8 @@ public class MainClass {
 		System.out.println("mmm12345");
 
 		System.out.println("mmm123456780");
-		System.out.println("chand sabir");
+		System.out.println("chand sabir
+		System.out.println("chand sabir2");
 
 
 	}
