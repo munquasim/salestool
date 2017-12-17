@@ -12,7 +12,7 @@ public class MainClass {
 		System.out.println("chand sabir2");
 
 		System.out.println("chand sabir1");
-		System.out.println("chand sabir2");
+		
 
 
 	}
